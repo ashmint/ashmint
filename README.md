@@ -6,7 +6,7 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ashmint@gmail.com](mailto:ashmint@gmail.com)
-* 🤝  I'm open to collaborating on any project
+* 🤝  I'm open to collaborating on projects
 
 
 <h3 align="center"> Skills </h3>
