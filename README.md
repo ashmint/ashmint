@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A full-stack software engineer </h3>
+<h3 align="center">I’m a Software Engineer, proficient in both Frontend & Backend development. </h3>
 <h4 align="center">I love to dig into customer problems and solve them with modern technology.</h3>
 
 ---------------
